@@ -1,4 +1,4 @@
-lo
+locomotiveCMS + rails 3.2.11
 ==
 
-loco
+The initial commit
